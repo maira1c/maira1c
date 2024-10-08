@@ -1,12 +1,24 @@
-## Hi welcome 👋
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+}
 
-<!--
-**maira1c/maira1c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
 
-Here are some ideas to get you started:
+section {
+	background: rgb(184,156,213);
+	padding-bottom: 80px;
+	padding-top: 80px;
+	display: flex;
+	justify-content: center;
+}
 
-- 🌱 I’m currently learning espanhol
-- 💬 Ask me about ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I passed omasp and I know basic Spanish
---
+.chamada-texto {
+    margin-right: 5%;
+}
